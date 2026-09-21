@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 
-* **Nama:** Reva L.
+* **Nama:** Reva Liyanasari
 * **NIM:** 22252610101
 * **Kelas:** 3A
 * **Mata Kuliah:** Algoritma dan Pemrograman
